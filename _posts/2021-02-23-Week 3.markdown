@@ -1,0 +1,15 @@
+Project Changed
+
+The project has been switched from a website creation project to a machine learning snow height estimation project
+
+The project is for the IceCube Observatory in the south pole
+
+The plan is to use the snow height measurements, which have been recorded semi annual in 162 locations since 2000, in conjunction with weather data (wind, pressure, temperature),
+in order to predict the next snow height measurement. 
+
+The goal will be to create the most accurate predictor.
+
+Extension goals include: 
+- making is so the predictor can predict the snow height inbetween measurements
+- allowing the predictor to predict more than one time step into the future (possibly very difficult)
+- making it so the predictor can predict the height based on the time input
