@@ -1,0 +1,25 @@
+
+feb 3
+- worked on GA's, worked on seeing if this website idea is valid  
+- exhausted other options, decided website was a good choice	  
+
+feb 4
+- learned sqlite3, extracted practicePanther to spreadsheet to pandas df to sqlite3  
+
+feb 5
+- django tutorial, understanding sql structure, POST/GET response, django docs  
+
+feb 7
+- +2 hours
+
+feb 9 
+- finished tutorial  
+- spent 6+ hours on django importing the 5 spreadsheets into database  
+- made the models work and imported using pandas converting to sql()  
+- next step work on the view of the model-view-controller  
+- fancy html templates with static files make nice bootstrap displaying client data   
+- create sign in / register - make admin privileges? easy way to update spreadsheets? OR  
+- don't include spreadsheet files in website for added security  
+- or admin can upload the files to website - website will update the database and delete the files   
+- that way only records are internal django database  
+- django protection methods - SSL and such to prevent getting hacked  
