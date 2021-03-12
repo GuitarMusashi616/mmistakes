@@ -1,0 +1,11 @@
+This week I got the capstone project approved, the professor suggested that the site be made more functional by adding various technical capabilities to the website such as signing in and signing out as well as being able to view a database.
+
+The plan is currently to create a website platform with the necessary functionality using django, then to add the design separately.
+
+The website focus will be on allowing the clients to view data related to their cases.
+
+Luckily this week I've learned that I can export the client data in the form of excel files using the lawyers' database software.
+
+This makes the website quite useful for the clients as previously there was no way for them to stay updated other than by calling their lawyers.
+
+Also this week this website was created to document progress - it will probably be updated to the clean burma theme in the near future.
