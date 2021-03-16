@@ -1,6 +1,6 @@
 main:
   - title: "Project"
-    url: /updates/
+    url: /project/
   - title: "Weekly Updates"
     url: /posts/
   - title: "About"
