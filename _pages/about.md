@@ -82,6 +82,7 @@ New Data
 - new data of snow heights came through to test models, this time 162 station with monthly snow - heights for a duration of 40 months
 - the new data, mostly followed the same trends as the first 
 - here are the results (show graphs) 
+
 Conclusion  
 - some models performed slightly better than baseline (so tiny might be a fluke)
 - overall due to sparse data limitations and no way to combine all stations worth of data, left - - with favoring simpler machine learning models to attempt the predictions.
