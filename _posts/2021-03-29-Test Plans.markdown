@@ -1,10 +1,3 @@
-Austin Williams  
-Shawn Butler  
-CS Capstone  
-29 March 2021  
-
-# Test Plans
-
 
 ## Deliverable:
 
